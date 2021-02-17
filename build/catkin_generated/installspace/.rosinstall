@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/spacesoc/rover/catkin_ws/install/setup.sh
